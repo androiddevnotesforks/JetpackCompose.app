@@ -5,7 +5,7 @@ learn more about the biggest change in Android development since its inception.
 It consists of tools, tutorials, resources and examples that help you level up
 your Jetpack Compose knowledge.
 
-## Note: The website continues to be actively maintained but only being used for powering the data of the site. This repo is being used as a submodule of a separate private repo that has the rest of the logic of the site. You can find the source code of the site itself preserved in this [branch](https://github.com/vinaygaba/JetpackCompose.app/tree/vinay-repo-backup). Kindly star the repository if you are a user of this site or if you found this source code useful.
+## Note: The website continues to be actively maintained but this repo in particular is only being used for powering the data of the site. It's being used as a submodule of a separate private repo that has the rest of the logic of the site. You can find the snapshot of the source code of the site itself preserved in this [branch](https://github.com/vinaygaba/JetpackCompose.app/tree/vinay-repo-backup). Kindly star the repository if you are a user of this site or if you found this source code useful. My motivation to preserve the source code for the rest of the site was to provide inspiration about how it was implemented.
 
 There are 4 main sections in the website:
 
