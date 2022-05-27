@@ -1,12 +1,145 @@
 [
   {
+    "id": "https://github.com/fgiris/composePPT",
+    "title": "Compose PPT",
+    "description": "An experimental UI toolkit for generating PowerPoint presentation files using Compose",
+    "contributorName": "Fatih Giriş",
+    "url": "https://github.com/fgiris/composePPT",
+    "imageUrl": "https://github.com/fgiris/composePPT/raw/master/art/banner.png",
+    "addedDate": "2022-05-24T07:00:00Z",
+    "categories": [
+      "UI Toolkit"
+    ]
+  },
+  {
+    "id": "https://github.com/GuilhE/KitchenTimer",
+    "title": "Kitchen Timer",
+    "description": "About A kitchen timer implemented with Jetpack Compose",
+    "contributorName": "Guilherme Delgado",
+    "url": "https://github.com/GuilhE/KitchenTimer",
+    "imageUrl": "https://github.com/GuilhE/KitchenTimer/raw/main/media/orange.gif",
+    "addedDate": "2022-05-08T07:00:00Z",
+    "categories": [
+      "Timer"
+    ]
+  },
+  {
+    "id": "https://github.com/AndroidPoet/Dropdown",
+    "title": "Dropdown",
+    "description": "💧 A Powerful and customizable Jetpack Compose dropdown menu with cascade and animations",
+    "contributorName": "Ranbir Singh",
+    "url": "https://github.com/AndroidPoet/Dropdown",
+    "imageUrl": "https://user-images.githubusercontent.com/13647384/166186269-091efb42-a143-4ccd-b9c4-0e0c4748c56e.gif",
+    "addedDate": "2022-05-08T07:00:00Z",
+    "categories": [
+      "Menus"
+    ]
+  },
+  {
+    "id": "https://github.com/StephenVinouze/SegmentedProgressBar",
+    "title": "Segmented Progress Bar",
+    "description": "Beautiful progress bar with segments. Highly customizable. Fully written with Jetpack Compose",
+    "contributorName": "Stephen Vinouze",
+    "url": "https://github.com/StephenVinouze/SegmentedProgressBar",
+    "imageUrl": "https://user-images.githubusercontent.com/14751184/149315010-4e406182-41b0-4fb8-8ff3-46489a4c4584.gif",
+    "addedDate": "2022-05-08T07:00:00Z",
+    "categories": [
+      "Progress Bar"
+    ]
+  },
+  {
+    "id": "https://github.com/dropbox/componentbox",
+    "title": "Component Box",
+    "description": "A Kotlin multiplatform library for building dynamic server-driven UI",
+    "contributorName": "Dropbox",
+    "url": "https://github.com/dropbox/componentbox",
+    "imageUrl": "https://github.com/dropbox/componentbox/raw/master/.github/componentbox.gif",
+    "addedDate": "2022-05-08T07:00:00Z",
+    "categories": [
+      "Server Driven UI"
+    ]
+  },
+  {
+    "id": "https://github.com/canopas/Intro-showcase-view",
+    "title": "Intro Showcase View",
+    "description": "Highlight different features of the app using Jetpack Compose",
+    "contributorName": "Canopas",
+    "url": "https://github.com/canopas/Intro-showcase-view",
+    "imageUrl": "https://github.com/canopas/Intro-showcase-view/raw/master/docs/assets/main_intro.gif",
+    "addedDate": "2022-05-07",
+    "categories": [
+      "Intro"
+    ]
+  },
+  {
+    "id": "https://github.com/farhanroy/compose-awesome-dialog",
+    "title": "Compose Awesome Dialog",
+    "description": "Awesome Dialog built with Jetpack Compose",
+    "contributorName": "Farhan Roy",
+    "url": "https://github.com/farhanroy/compose-awesome-dialog",
+    "imageUrl": "https://raw.githubusercontent.com/farhanroy/compose-awesome-dialog/main/screenshots/demo.gif",
+    "addedDate": "2022-05-07",
+    "categories": [
+      "Dialogs"
+    ]
+  },
+  {
+    "id": "https://github.com/Shivamdhuria/palette",
+    "title": "Palette",
+    "description": "🌈 Color Picker made in Jetpack Compose in Android",
+    "contributorName": "Shivam Dhuria",
+    "url": "https://github.com/Shivamdhuria/palette",
+    "imageUrl": "https://github.com/Shivamdhuria/palette/raw/main/assets/midHigh.gif",
+    "addedDate": "2022-05-07",
+    "categories": [
+      "Color Picker"
+    ]
+  },
+  {
+    "id": "https://github.com/wajahatkarim3/Flippable",
+    "title": "Flippable",
+    "description": "A Jetpack Compose library for animating a flip transition between the front and back of something, such as a card.",
+    "contributorName": "Wajahat Karim",
+    "url": "https://github.com/wajahatkarim3/Flippable",
+    "imageUrl": "https://user-images.githubusercontent.com/8867121/154110583-1e5364de-3106-47c7-9b94-bf8b1e9d6ff3.gif",
+    "addedDate": "2022-05-07",
+    "categories": [
+      "Animation",
+      "Gesture"
+    ]
+  },
+  {
+    "id": "https://github.com/sridhar-sp/compose-neumorphism",
+    "title": "Compose Neumorphism",
+    "description": "Neumorphism design implementation in jetpack compose",
+    "contributorName": "Sridhar",
+    "url": "https://github.com/sridhar-sp/compose-neumorphism",
+    "imageUrl": "https://github.com/sridhar-sp/compose-neumorphism/raw/main/docs/screens/neu_light.png",
+    "addedDate": "2022-05-07",
+    "categories": [
+      "Design System"
+    ]
+  },
+  {
+    "id": "https://github.com/GetStream/sketchbook-compose",
+    "title": "Sketchbook Compose",
+    "description": "🎨 Jetpack Compose canvas library that helps you draw paths, images on canvas with color pickers and palettes.",
+    "contributorName": "GetStream",
+    "url": "https://github.com/GetStream/sketchbook-compose",
+    "imageUrl": "https://user-images.githubusercontent.com/24237865/154213763-47af36de-61b3-446e-9d6c-563bae87bfda.gif",
+    "addedDate": "2022-05-07",
+    "categories": [
+      "Canvas"
+    ]
+  },
+  {
     "id": "https://github.com/airbnb/Showkase",
     "title": "Showkase",
     "description": "🔦 Showkase is an annotation-processor based Android library that helps you organize, discover and search Jetpack Compose UI elements",
     "contributorName": "Vinay Gaba",
     "url": "https://github.com/airbnb/Showkase",
     "imageUrl": "https://github.com/airbnb/Showkase/raw/master/assets/showkase_demo.gif",
-    "addedDate": "10-19-2020",
+    "addedDate": "2020-10-19",
     "categories": [
       "Library",
       "Design System"
@@ -19,7 +152,7 @@
     "contributorName": "Chris Banes",
     "url": "https://github.com/google/accompanist",
     "imageUrl": "https://i.imgur.com/NlUiF0h.gif",
-    "addedDate": "10-19-2020",
+    "addedDate": "2020-10-19",
     "categories": [
       "Library",
       "Image Loading"
@@ -32,7 +165,7 @@
     "contributorName": "Alex Lockwood",
     "url": "https://github.com/alexjlockwood/bees-and-bombs-compose",
     "imageUrl": "https://github.com/alexjlockwood/bees-and-bombs-compose/raw/master/art/ring-of-circles-compose.gif",
-    "addedDate": "10-19-2020",
+    "addedDate": "2020-10-19",
     "categories": [
       "Animation",
       "Examples"
@@ -45,7 +178,7 @@
     "contributorName": " Adam Bennett",
     "url": "https://github.com/ditn/Doom-Compose",
     "imageUrl": "https://camo.githubusercontent.com/669fe429582c4bb6f07dfc31be08db973498a149/68747470733a2f2f6164616d62656e6e6574742e6465762f696d672f646f6f6d2d636f6d706f73652d66696e616c2e676966",
-    "addedDate": "10-19-2020",
+    "addedDate": "2020-10-19",
     "categories": [
       "Animation"
     ]
@@ -57,7 +190,7 @@
     "contributorName": "Erik Hellman",
     "url": "https://github.com/ErikHellman/MarkdownComposer",
     "imageUrl": "https://www.hellsoft.se/content/images/2020/09/Screenshot_1599569930-1.png",
-    "addedDate": "10-19-2020",
+    "addedDate": "2020-10-19",
     "categories": [
       "Text",
       "Markdown",
@@ -65,13 +198,13 @@
     ]
   },
   {
-    "id": "https://github.com/zach-klippenstein/compose-backstack",
+    "id": "https://github.com/rjrjr/compose-backstack",
     "title": "Compose Backstack",
     "description": "Simple composable for rendering transitions between back stacks.",
     "contributorName": "Zach Klippenstein",
-    "url": "https://github.com/zach-klippenstein/compose-backstack",
+    "url": "https://github.com/rjrjr/compose-backstack",
     "imageUrl": "https://github.com/zach-klippenstein/compose-backstack/raw/main/.images/inspector.gif",
-    "addedDate": "10-19-2020",
+    "addedDate": "2020-10-19",
     "categories": [
       "Library",
       "Navigation"
@@ -84,7 +217,7 @@
     "contributorName": "Vinay Gaba",
     "url": "https://github.com/vinaygaba/Learn-Jetpack-Compose-By-Example",
     "imageUrl": "https://media3.giphy.com/media/mOIstBqbjMm2CdR5EX/giphy.gif",
-    "addedDate": "10-19-2020",
+    "addedDate": "2020-10-19",
     "categories": [
       "Examples",
       "Tutorial"
@@ -97,7 +230,7 @@
     "contributorName": "Jake Wharton",
     "url": "https://github.com/JakeWharton/mosaic",
     "imageUrl": "https://github.com/JakeWharton/mosaic/raw/trunk/samples/jest/demo.svg",
-    "addedDate": "08-12-2021",
+    "addedDate": "2021-08-12",
     "categories": [
       "Console UI"
     ]
@@ -109,7 +242,7 @@
     "contributorName": "Zsolt Kocsi",
     "url": "https://github.com/zsoltk/compose-router",
     "imageUrl": "https://camo.githubusercontent.com/28be1ae2d7e263c64e28a27df28d2434f50dc104/68747470733a2f2f692e696d6775722e636f6d2f6b4b63414861332e706e67",
-    "addedDate": "10-19-2020",
+    "addedDate": "2020-10-19",
     "categories": [
       "Library",
       "Navigation"
@@ -122,7 +255,7 @@
     "contributorName": "Adib Faramarzi ",
     "url": "https://github.com/adibfara/ComposeClock",
     "imageUrl": "https://raw.githubusercontent.com/adibfara/ComposeClock/master/demo.gif",
-    "addedDate": "10-19-2020",
+    "addedDate": "2020-10-19",
     "categories": [
       "Animation"
     ]
@@ -134,7 +267,7 @@
     "contributorName": "Vipul Asri",
     "url": "https://github.com/vipulasri/JetInstagram",
     "imageUrl": "https://github.com/vipulasri/JetInstagram/raw/master/art/jetinstagram.gif",
-    "addedDate": "10-19-2020",
+    "addedDate": "2020-10-19",
     "categories": [
       "Examples"
     ]
@@ -146,7 +279,7 @@
     "contributorName": "Caelum Forder",
     "url": "https://github.com/CaelumF/FigmaToCompose",
     "imageUrl": "https://i.imgur.com/esrcpzS.gif",
-    "addedDate": "10-19-2020",
+    "addedDate": "2020-10-19",
     "categories": [
       "Figma Plugin"
     ]
@@ -158,7 +291,7 @@
     "contributorName": "Gurupreet Singh",
     "url": "https://github.com/Gurupreet/ComposeCookBook",
     "imageUrl": "https://camo.githubusercontent.com/f8e511c80001e2d4014cc0ed09d6520f9606dad9/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f705a667777774f6c4b517469794a465072322f67697068792e676966",
-    "addedDate": "10-19-2020",
+    "addedDate": "2020-10-19",
     "categories": [
       "Examples"
     ]
@@ -169,7 +302,7 @@
     "contributorName": "Zach Klippenstein/ Halil Ozercan",
     "url": "https://github.com/halilozercan/compose-richtext",
     "imageUrl": "https://i.ibb.co/kGMccBy/compose-richtext.gif",
-    "addedDate": "10-19-2020",
+    "addedDate": "2020-10-19",
     "categories": [
       "Text",
       "Markdown"
@@ -183,7 +316,7 @@
     "contributorName": "Joe Birch",
     "url": "https://github.com/hitherejoe/ComposeAcademy",
     "imageUrl": "https://github.com/hitherejoe/ComposeAcademy/raw/master/compose_academy.png",
-    "addedDate": "10-19-2020",
+    "addedDate": "2020-10-19",
     "categories": [
       "Examples"
     ]
@@ -195,7 +328,7 @@
     "contributorName": "Vipul Asri",
     "url": "https://github.com/vipulasri/JetDelivery",
     "imageUrl": "https://github.com/vipulasri/JetDelivery/raw/master/art/screenshot-framed-1.png",
-    "addedDate": "10-19-2020",
+    "addedDate": "2020-10-19",
     "categories": [
       "Examples"
     ]
@@ -207,7 +340,7 @@
     "contributorName": "Jaewoong Eum",
     "url": "https://github.com/skydoves/Orchestra",
     "imageUrl": "https://user-images.githubusercontent.com/24237865/61194943-f9d70380-a6ff-11e9-807f-ba1ca8126f8a.gif",
-    "addedDate": "10-19-2020",
+    "addedDate": "2020-10-19",
     "categories": [
       "Color Picker",
       "Spinner"
@@ -220,7 +353,7 @@
     "contributorName": "Zsolt Kocsi",
     "url": "https://github.com/zsoltk/compose-pokedex",
     "imageUrl": "https://camo.githubusercontent.com/a2d81c31dbdfb1f81b981eee543e14c1d55a1ef9/68747470733a2f2f696d6775722e636f6d2f497470757152682e706e67",
-    "addedDate": "10-19-2020",
+    "addedDate": "2020-10-19",
     "categories": [
       "Examples"
     ]
@@ -232,7 +365,7 @@
     "contributorName": "Maciej Ciemiega",
     "url": "https://github.com/mobnetic/compose-shared-element",
     "imageUrl": "https://github.com/mobnetic/compose-shared-element/raw/master/screenshots/TransitionAnimation.gif",
-    "addedDate": "10-20-2020",
+    "addedDate": "2020-10-20",
     "categories": [
       "Navigation",
       "Animation"
@@ -245,7 +378,7 @@
     "contributorName": "Jens Klingenberg",
     "url": "https://github.com/Foso/Jetpack-Compose-Playground",
     "imageUrl": "https://github.com/Foso/Jetpack-Compose-Playground/raw/master/docs/images/readme/ControlledScrollDemo.png",
-    "addedDate": "10-20-2020",
+    "addedDate": "2020-10-20",
     "categories": [
       "Examples"
     ]
@@ -257,7 +390,7 @@
     "contributorName": "Wajahat Karim",
     "url": "https://github.com/wajahatkarim3/DinoCompose",
     "imageUrl": "https://github.com/wajahatkarim3/DinoCompose/raw/master/DinoDemo.gif",
-    "addedDate": "10-20-2020",
+    "addedDate": "2020-10-20",
     "categories": [
       "Examples",
       "Game"
@@ -270,7 +403,7 @@
     "contributorName": "Alex Lockwood",
     "url": "https://github.com/alexjlockwood/android-2048-compose",
     "imageUrl": "https://github.com/alexjlockwood/android-2048-compose/raw/master/art/twenty-forty-eight.gif",
-    "addedDate": "10-20-2020",
+    "addedDate": "2020-10-20",
     "categories": [
       "Examples",
       "Game"
@@ -282,7 +415,7 @@
     "description": "Tetris implemented using Jetpack Compose",
     "url": "https://github.com/Popalay/Retrogamer-Compose",
     "imageUrl": "https://github.com/Popalay/Retrogamer-Compose/raw/master/art/sample.gif",
-    "addedDate": "10-20-2020",
+    "addedDate": "2020-10-20",
     "categories": [
       "Examples",
       "Game"
@@ -296,7 +429,7 @@
     "contributorName": "Sebastian Kaspari",
     "url": "https://github.com/pocmo/recompose",
     "imageUrl": "https://github.com/pocmo/recompose/raw/main/demo.gif",
-    "addedDate": "10-20-2020",
+    "addedDate": "2020-10-20",
     "categories": [
       "Tool"
     ]
@@ -308,7 +441,7 @@
     "contributorName": "Zach Klippenstein",
     "url": "https://github.com/square/radiography",
     "imageUrl": "https://github.com/square/radiography/raw/main/assets/compose_sample_screenshot.png",
-    "addedDate": "10-20-2020",
+    "addedDate": "2020-10-20",
     "categories": [
       "Library"
     ]
@@ -319,7 +452,7 @@
     "description": "Official Jetpack Compose Sample Apps by Google",
     "url": "https://github.com/android/compose-samples",
     "imageUrl": "https://github.com/android/compose-samples/raw/main/Jetcaster/docs/jetcaster.gif",
-    "addedDate": "10-21-2020",
+    "addedDate": "2020-10-21",
     "categories": [
       "Examples"
     ],
@@ -332,7 +465,7 @@
     "contributorName": "Bruno Aybar",
     "url": "https://github.com/Bruno125/Compose-Challenges",
     "imageUrl": "https://github.com/Bruno125/Compose-Challenges/raw/main/assets/flappy-animation.gif",
-    "addedDate": "10-21-2020",
+    "addedDate": "2020-10-21",
     "categories": [
       "Examples",
       "Animation"
@@ -345,7 +478,7 @@
     "contributorName": "Ashar Khan",
     "url": "https://github.com/ashar-7/JetMessenger",
     "imageUrl": "https://github.com/ashar-7/JetMessenger/raw/master/screenshots/demo.gif",
-    "addedDate": "10-22-2020",
+    "addedDate": "2020-10-22",
     "categories": [
       "Examples"
     ]
@@ -357,7 +490,7 @@
     "contributorName": "Halil Ozercan",
     "url": "https://github.com/halilozercan/ComposeVideoPlayer",
     "imageUrl": "https://raw.githubusercontent.com/halilozercan/ComposeVideoPlayer/master/preview.gif",
-    "addedDate": "10-22-2020",
+    "addedDate": "2020-10-22",
     "categories": [
       "Examples"
     ]
@@ -369,7 +502,7 @@
     "contributorName": "Bernat Borrás Paronella",
     "url": "https://github.com/alorma/Compose-Debug-Drawer",
     "imageUrl": "https://github.com/alorma/Compose-Debug-Drawer/raw/main/art/drawer-v0.1.0-beta-02.png",
-    "addedDate": "10-23-2020",
+    "addedDate": "2020-10-23",
     "categories": [
       "Library",
       "Debug Menu"
@@ -381,7 +514,7 @@
     "contributorName": "Taras Koshkin",
     "url": "https://github.com/tehras/charts",
     "imageUrl": "https://github.com/tehras/charts/raw/master/assets/line_chart.gif",
-    "addedDate": "10-27-2020",
+    "addedDate": "2020-10-27",
     "categories": [
       "Library",
       "Chart"
@@ -395,7 +528,7 @@
     "contributorName": "Jaewoong Eum",
     "url": "https://github.com/skydoves/Landscapist",
     "imageUrl": "https://user-images.githubusercontent.com/24237865/95661452-6abad480-0b6a-11eb-91c4-7cbe40b77927.gif",
-    "addedDate": "11-15-2020",
+    "addedDate": "2020-11-15",
     "categories": [
       "Library",
       "Image Loading"
@@ -412,7 +545,7 @@
       "Shimmer"
     ],
     "title": "Compose Shimmer",
-    "addedDate": "12-27-2020"
+    "addedDate": "2020-12-2"
   },
   {
     "title": "Compose MacOS Theme",
@@ -426,7 +559,7 @@
       "MacOS"
     ],
     "id": "https://github.com/Chozzle/compose-macos-theme",
-    "addedDate": "1-23-2020"
+    "addedDate": "2020-01-23"
   },
   {
     "id": "https://github.com/DevSrSouza/compose-icons",
@@ -439,7 +572,7 @@
       "Library",
       "Icons"
     ],
-    "addedDate": "03-13-2021"
+    "addedDate": "2021-03-1"
   },
   {
     "id": "https://github.com/halilozercan/compose-schedule-calendar",
@@ -447,7 +580,7 @@
     "contributorName": "Halil Ozercan",
     "url": "https://github.com/halilozercan/compose-schedule-calendar",
     "imageUrl": "https://github.com/halilozercan/compose-schedule-calendar/raw/main/assets/demo.gif",
-    "addedDate": "08-12-2021",
+    "addedDate": "2021-08-12",
     "categories": [
       "Library",
       "Calendar"
@@ -461,7 +594,7 @@
     "contributorName": "Pranav Maganti",
     "url": "https://github.com/vanpra/compose-material-dialogs",
     "imageUrl": "https://raw.githubusercontent.com/vanpra/compose-material-dialogs/main/imgs/date_and_time.png",
-    "addedDate": "08-12-2021",
+    "addedDate": "2021-08-12",
     "categories": [
       "Dialogs"
     ]
@@ -473,7 +606,7 @@
     "contributorName": "Adriel Café",
     "url": "https://github.com/adrielcafe/lyricist",
     "imageUrl": "https://user-images.githubusercontent.com/2512298/129431216-9ad0124d-816f-4b99-be4f-1a8db24dae0d.png",
-    "addedDate": "08-12-2021",
+    "addedDate": "2021-08-12",
     "categories": [
       "i18n"
     ]
@@ -484,7 +617,7 @@
     "contributorName": "Praful Mishra",
     "url": "https://github.com/prafullmishra/JetComposer",
     "imageUrl": "https://camo.githubusercontent.com/15f723df08e49285dea1f94309ac1689370bd5e21e74efcc32fa5ebcdd272ca0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f694d445567344d4c635a6872484231726a6b2f67697068792e676966",
-    "addedDate": "08-12-2021",
+    "addedDate": "2021-08-12",
     "categories": [
       "Animation",
       "Examples"
@@ -498,7 +631,7 @@
     "contributorName": "Bernat Borrás Paronella",
     "url": "https://github.com/alorma/Compose-Settings",
     "imageUrl": "https://github.com/alorma/Compose-Settings/raw/main/docs/art/screenshot_links.jpeg",
-    "addedDate": "08-12-2021",
+    "addedDate": "2021-08-12",
     "categories": [
       "Library",
       "Preferences"
@@ -511,7 +644,7 @@
     "contributorName": "Adriel Café",
     "url": "https://github.com/adrielcafe/voyager",
     "imageUrl": "https://user-images.githubusercontent.com/2512298/126323588-2f970953-0adb-47f8-b2fb-91c5854656bd.gif",
-    "addedDate": "08-13-2021",
+    "addedDate": "2021-08-13",
     "categories": [
       "Library",
       "Navigation"
@@ -524,7 +657,7 @@
     "contributorName": "Alashov Berkeli",
     "url": "https://github.com/alashow/datmusic-android",
     "imageUrl": "https://raw.githubusercontent.com/alashow/datmusic-android/18a37cc34de3fbf659dbd20474401ac045a97d56/art/screenshots/source/6.png",
-    "addedDate": "08-13-2021",
+    "addedDate": "2021-08-13",
     "categories": [
       "Examples"
     ]
@@ -536,7 +669,7 @@
     "contributorName": "Vikas Kumar",
     "url": "https://github.com/worstkiller/jetpackcompose_canvas_icon_pack",
     "imageUrl": "https://raw.githubusercontent.com/worstkiller/jetpackcompose_canvas_icon_pack/master/screenshots/white_1.jpg",
-    "addedDate": "08-21-2021",
+    "addedDate": "2021-08-21",
     "categories": [
       "Canvas",
       "Examples"
@@ -549,7 +682,7 @@
     "contributorName": "theapache64",
     "url": "https://github.com/theapache64/create-compose-app",
     "imageUrl": "https://github.com/theapache64/create-compose-app/raw/master/demo_desktop.gif",
-    "addedDate": "08-29-2021",
+    "addedDate": "2021-08-29",
     "categories": [
       "Tool"
     ]
@@ -561,9 +694,83 @@
     "contributorName": "farhanroy",
     "url": "https://github.com/farhanroy/compose-telegram-clone",
     "imageUrl": "https://raw.githubusercontent.com/farhanroy/compose-telegram-clone/main/art/Screenshot_1628728414.png",
-    "addedDate": "09-25-2021",
+    "addedDate": "2021-09-25",
     "categories": [
       "Examples"
     ]
+  },
+  {
+    "id": "https://github.com/Tgo1014/DraggableScaffold",
+    "title": "Draggable Scaffold",
+    "description": "Compose library to drag to reveal",
+    "contributorName": "Tiago Araujo",
+    "url": "https://github.com/Tgo1014/DraggableScaffold",
+    "imageUrl": "https://github.com/Tgo1014/DraggableScaffold/raw/main/sources/demo.gif",
+    "addedDate": "2021-09-26",
+    "categories": [
+      "Library",
+      "Gestures"
+    ]
+  },
+  {
+    "id": "https://github.com/raamcosta/compose-destinations",
+    "title": "Compose Destinations",
+    "description": "Annotation processing library for type-safe Jetpack Compose navigation with no boilerplate.",
+    "contributorName": "Rafael Costa",
+    "url": "https://github.com/raamcosta/compose-destinations",
+    "imageUrl": "https://user-images.githubusercontent.com/80427734/147891822-5cd34c80-8dca-4d34-8278-2aa3bf36913f.png",
+    "categories": [
+      "Navigation",
+      "Library"
+    ],
+    "addedDate": "2022-05-0-"
+  },
+  {
+    "id": "https://github.com/microsoft/surface-duo-compose-sdk",
+    "title": "Surface Duo Compose SDK",
+    "description": "This repo contains components built with Jetpack Compose for the Microsoft Surface Duo.",
+    "contributorName": "Microsoft",
+    "url": "https://github.com/microsoft/surface-duo-compose-sdk",
+    "imageUrl": "https://docs.microsoft.com/en-us/dual-screen/android/jetpack/compose/images/foldable.png",
+    "addedDate": "2022-05-07",
+    "categories": [
+      "Tablet"
+    ]
+  },
+  {
+    "id": "https://github.com/chrisbanes/snapper",
+    "title": "Snapper",
+    "description": "A snapping fling behavior for Jetpack Compose",
+    "contributorName": "Chris Banes",
+    "url": "https://github.com/chrisbanes/snapper",
+    "imageUrl": "https://i.ibb.co/GdV9Z2Y/snapper.gif",
+    "addedDate": "2022-05-07",
+    "categories": [
+      "Gestures"
+    ]
+  },
+  {
+    "id": "https://github.com/akshay2211/DrawBox",
+    "title": "DrawBox",
+    "description": "DrawBox is a multi-purpose tool to draw anything on canvas, written completely on jetpack compose.",
+    "contributorName": "Akshay Sharma",
+    "url": "https://github.com/akshay2211/DrawBox",
+    "imageUrl": "https://github.com/akshay2211/DrawBox/raw/main/media/media.gif",
+    "addedDate": "2022-05-07",
+    "categories": [
+      "Canvas"
+    ]
+  },
+  {
+    "id": "https://github.com/skydoves/colorpicker-compose",
+    "title": "ColorPicker-Compose",
+    "contributorName": "Jaewoong Eum",
+    "url": "https://github.com/skydoves/colorpicker-compose",
+    "imageUrl": "https://github.com/skydoves/colorpicker-compose/raw/main/preview/preview2.gif",
+    "addedDate": "2022-05-07",
+    "categories": [
+      "Color Picker"
+    ],
+    "description": "🎨 Jetpack Compose color picker library for getting colors from any images by tapping on the desired color."
   }
 ]

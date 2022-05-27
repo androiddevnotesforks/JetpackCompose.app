@@ -5,7 +5,7 @@ learn more about the biggest change in Android development since its inception.
 It consists of tools, tutorials, resources and examples that help you level up
 your Jetpack Compose knowledge.
 
-## Note: The website continues to be actively maintained but all new development is now happening in a private repository. I'm keeping this repository around for inspiration on how it was implemented. Kindly star the repository if you are a user of this site or if you found this source code useful. 
+## Note: The website continues to be actively maintained but only being used for powering the data of the site. This repo is being used as a submodule of a separate private repo that has the rest of the logic of the site. You can find the source code of the site itself preserved in this [branch](https://github.com/vinaygaba/JetpackCompose.app/tree/vinay-repo-backup). Kindly star the repository if you are a user of this site or if you found this source code useful.
 
 There are 4 main sections in the website:
 
@@ -49,28 +49,19 @@ lightweight so that anyone can contribute.
     <tr>
         <td>Compose Catalog</td>
         <td>
-            <a href="src/components/catalog">UI Code</a> <br/>
-            <a href="src/data/catalog.json">Content/Data</a>
+            <a href="catalog.json">Content/Data</a>
         </td>
     </tr>
     <tr>
         <td>Which Compose API to use?</td>
         <td>
-            <a href="src/components/ifttt">UI Code</a> <br/>
-            <a href="src/data/ifttt.json">Content/Data</a>
-        </td>
-    </tr>
-    <tr>
-        <td>Compose Quick Bites</td>
-        <td>
-            <a href="src/components/quickbites">UI Code</a> <br/>
+            <a href="ifttt.json">Content/Data</a>
         </td>
     </tr>
     <tr>
         <td>FAQ's</td>
         <td>
-            <a href="src/components/faq">UI Code</a> <br/>
-            <a href="src/data/faq.json">Content/Data</a>
+            <a href="faq.json">Content/Data</a>
         </td>
     </tr>
 </table>
