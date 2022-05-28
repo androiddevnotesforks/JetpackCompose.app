@@ -5,7 +5,7 @@ learn more about the biggest change in Android development since its inception.
 It consists of tools, tutorials, resources and examples that help you level up
 your Jetpack Compose knowledge.
 
-## Note: The website continues to be actively maintained but all new development is now happening in a private repository. I'm keeping this repository around for inspiration on how it was implemented. Kindly star the repository if you are a user of this site or if you found this source code useful. 
+###### Note: The website continues to be actively developed but some new development is now happening in a private repository. I'm keeping this repository around for inspiration on how it was implemented. Kindly star the repository if you are a user of this site or if you found the source code useful. I'm committed to making sure JetpackCompose.app is one of the best places to learn about Compose! 
 
 There are 4 main sections in the website:
 
